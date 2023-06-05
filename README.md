@@ -23,9 +23,9 @@ maanvi-bansal-1517ban
    
      
 ### :man_technologist: About Me :
-<div id="header"> Engineering undergrad. </div>
+<div id="header"> engineering undergrad. </div>
 
-- 🌱I'm Currently learning  Game development, blender, Arduino.
+- 🍄I'm Currently learning  Game development, blender, Arduino.
 
 
 -  💬 Ask me about 3-D modelling, Arduino, NBA 
